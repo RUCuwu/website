@@ -1,0 +1,23 @@
+{
+    "name": "website",
+    "description": "A Small Website for the project due 08/18",
+    "main": "Web.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RUCuwu/website.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "http://127.0.0.1:5500/testing123/Web.html#home"
+    },
+    "homepage": "http://127.0.0.1:5500/testing123/Web.html#home",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
